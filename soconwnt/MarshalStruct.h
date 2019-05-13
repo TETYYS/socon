@@ -1,0 +1,5 @@
+#pragma once
+
+/*typedef struct _CSMARSHAL_PROCESS {
+
+} CSMARSHAL_PROCESS, *PCSMARSHAL_PROCESS;*/
